@@ -1,0 +1,5 @@
+.DS_Store
+.debris/
+*.csv
+*bookmarks*.html
+config.js_
